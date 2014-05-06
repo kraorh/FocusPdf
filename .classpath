@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="E:/JarFiles/flyingsaucer-R8/core-renderer.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/JarFiles/flyingsaucer-R8/iText-2.0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/JarFiles/flyingsaucer-R8/xml-apis-xerces-2.9.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="E:/JarFiles/jtidy-r938.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/JarFiles/jsoup-1.7.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
